@@ -1,11 +1,10 @@
 
-    <?php
+   <?php
 
         function modified($text){ // ($text) is paramitar
-            echo "My name is $text";
+            echo "the quick $text fox jumps over the lazy dog.";
         };
 
-        modified("Rasel"); // this is arugment
+        modified("ted"); // this is arugment
 
     ?>
-
